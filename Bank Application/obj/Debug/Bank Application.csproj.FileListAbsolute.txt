@@ -1,0 +1,10 @@
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\bin\Debug\Bank Application.exe.config
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\bin\Debug\Bank Application.exe
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\bin\Debug\Bank Application.pdb
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank Application.csprojAssemblyReference.cache
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank_Application.formLogin.resources
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank_Application.Properties.Resources.resources
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank Application.csproj.GenerateResource.cache
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank Application.csproj.CoreCompileInputs.cache
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank Application.exe
+C:\Users\steve\OneDrive\Documents\BVC\SODV2202\Bank of Prometheus\Bank Application\obj\Debug\Bank Application.pdb
